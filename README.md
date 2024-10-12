@@ -21,7 +21,7 @@
 <br /> 
 
 <p align="center">
-
+<img width="600" src=".github/workflows/MAIN.yml" alt="MAIN"/>
 </p>
 
 <details>
