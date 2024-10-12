@@ -21,7 +21,7 @@
 <br /> 
 
 <p align="center">
-<img width="600" src=".github/workflows/MAIN.yml" alt="MAIN"/>
+<img width="600" src=".github/workflows/github-snake.svg" alt="snake"/>
 </p>
 
 <details>
