@@ -18,7 +18,9 @@
 
 [![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=purple)](https://discord.com/invite/SFcSqZatPa) [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Trash_sweetyyy) [![vkontakte](https://img.shields.io/badge/vkontakte-black?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/darmenov5)
 
+<br /> 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
 
 
 
