@@ -5,7 +5,7 @@
 <br />
 
 ### Languages and Technologies:
-<img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue&link= https://www.python.org/"> <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=red&link=https://ru.wikipedia.org/wiki/HTML"> <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue&link=https://ru.wikipedia.org/wiki/CSS"> <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=red&link=https://www.figma.com/">
+<img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue&link=https://www.python.org/"> <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=red&link=https://ru.wikipedia.org/wiki/HTML"> <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue&link=https://ru.wikipedia.org/wiki/CSS"> <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=red&link=https://www.figma.com/">
 
 <br />
 
