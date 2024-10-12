@@ -20,7 +20,19 @@
 
 <br /> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fafnot&show_icons=true&theme=synthwave)
+<p align="center">
+
+</p>
+
+<details>
+  <summary>:zap: <b>GitHub stats</b></summary>
+  <p>
+   <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fafnot&show_icons=true&theme=dark" />
+   <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafnot&layout=compact&theme=dark" />  
+   <br>
+   <img align="middle" src="https://metrics.lecoq.io/Fafnot" />
+  </p>
+</details>
 
 
 
