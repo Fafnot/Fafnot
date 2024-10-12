@@ -10,7 +10,7 @@
 <br />
 
 ### Tools
-<img src="https://img.shields.io/badge/nvim-black?style=for-the-badge&logo=neovim&logoColor=green&link=https://neovim.io/"> <img src="https://img.shields.io/badge/vs code-black?style=for-the-badge&logoColor=blue&link=https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/google-black?style=for-the-badge&logo=google&logoColor=red"> <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=green&link=https://www.jetbrains.com/pycharm/promo/?source=google&medium=cpc&campaign=CIS_en_CIS_PyCharm_Branded&term=pycharm&content=698987581398&gad_source=1&gclid=CjwKCAjwvKi4BhABEiwAH2gcw8xwnWbq6vj-RePjiI_vPhpOFGAUtJQh4xUJmQa__H_x77QJEu_tQxoCvCEQAvD_BwE"> 
+<img src="https://img.shields.io/badge/nvim-black?style=for-the-badge&logo=neovim&logoColor=green&link=https://neovim.io/"> <img src="https://img.shields.io/badge/vs code-black?style=for-the-badge&logoColor=blue&link=https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/google-black?style=for-the-badge&logo=google&logoColor=red"> <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=green&link=https://www.jetbrains.com/pycharm/promo/?source=google&medium=cpc&campaign=CIS_en_CIS_PyCharm_Branded&term=pycharm&content=698987581398&gad_source=1&gclid=CjwKCAjwvKi4BhABEiwAH2gcw8xwnWbq6vj-RePjiI_vPhpOFGAUtJQh4xUJmQa__H_x77QJEu_tQxoCvCEQAvD_BwE"> <img src="https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&logoColor=orange&link=[https://neovim.io/](https://www.blender.org/)">
 
 <br />
 
