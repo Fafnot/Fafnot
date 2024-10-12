@@ -10,12 +10,11 @@
 <br />
 
 ### Tools
-<img src="https://img.shields.io/badge/nvim-black?style=for-the-badge&logo=neovim&logoColor=green&link=https://neovim.io/"> <img src="https://img.shields.io/badge/vs code-black?style=for-the-badge&logoColor=blue&link=https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/google-black?style=for-the-badge&logo=google&logoColor=red"> <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=green&link=https://www.jetbrains.com/pycharm/"> <img src="https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&logoColor=orange&link=https://www.blender.org/">
+<img src="https://img.shields.io/badge/nvim-black?style=for-the-badge&logo=neovim&logoColor=green&link=https://neovim.io/"> <img src="https://img.shields.io/badge/vs code-black?style=for-the-badge&logoColor=blue&link=https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/google-black?style=for-the-badge&logo=google&logoColor=red"> <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=green&link=https://www.jetbrains.com/pycharm/"> [![blender](<img src="https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&logoColor=orange&link=">)](https://www.blender.org/)
 
 <br />
 
 ### Socials:
-<img src="https://img.shields.io/badge/vkontakte-black?style=for-the-badge&logo=vk&logoColor=blue&link=https://vk.com/darmenov5"> 
 
 [![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=purple)](https://discord.com/invite/SFcSqZatPa) [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Trash_sweetyyy) [![vkontakte](https://img.shields.io/badge/vkontakte-black?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/darmenov5)
 
