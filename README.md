@@ -10,7 +10,7 @@
 <br />
 
 ### Tools
-<img src="https://img.shields.io/badge/nvim-black?style=for-the-badge&logo=neovim&logoColor=green&">  [![blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&logoColor=orange)] [![pycharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=green)] [![google](https://img.shields.io/badge/google-black?style=for-the-badge&logo=google&logoColor=red)] <img src="https://img.shields.io/badge/vs code-black?style=for-the-badge&logoColor=blue">
+<img src="https://img.shields.io/badge/nvim-black?style=for-the-badge&logo=neovim&logoColor=green&"> <img src="https://img.shields.io/badge/vs code-black?style=for-the-badge&logoColor=blue"> <img src="https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&logoColor=orenge"> <img src="https://img.shields.io/badge/google-black?style=for-the-badge&logo=google&logoColor=blue"> <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=green">
 
 <br />
 
