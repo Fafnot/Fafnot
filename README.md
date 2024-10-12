@@ -15,9 +15,9 @@
 <br />
 
 ### Socials:
-<img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=purple&link=https://discord.com/invite/SFcSqZatPa"> <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=blue&link=https://t.me/Trash_sweetyyy"> <img src="https://img.shields.io/badge/vkontakte-black?style=for-the-badge&logo=vk&logoColor=blue&link=https://vk.com/darmenov5"> 
+<img src="https://img.shields.io/badge/vkontakte-black?style=for-the-badge&logo=vk&logoColor=blue&link=https://vk.com/darmenov5"> 
 
-[![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=purple)](https://discord.com/invite/SFcSqZatPa)
+[![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=purple)](https://discord.com/invite/SFcSqZatPa) [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Trash_sweetyyy) [![vkontakte](https://img.shields.io/badge/vkontakte-black?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/darmenov5)
 
 
 
