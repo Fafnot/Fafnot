@@ -30,7 +30,7 @@
    <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fafnot&show_icons=true&theme=dark" />
    <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafnot&layout=compact&theme=dark" />  
    <br>
-   ![Codewars](https://github.r2v.ch/codewars?user=nonnsweety&stroke=%23BB432C)
+   <img align="middle" alt="codewars" src="https://github.r2v.ch/codewars?user=nonnsweety&stroke=%23BB432C">
   </p>
 </details>
 
