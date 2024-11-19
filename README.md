@@ -30,7 +30,7 @@
    <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fafnot&show_icons=true&theme=dark" />
    <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafnot&layout=compact&theme=dark" />  
    <br>
-   <img align="middle" src="https://metrics.lecoq.io/Fafnot" />
+   ![Codewars](https://github.r2v.ch/codewars?user=Fafnot&stroke=%23BB432C)
   </p>
 </details>
 
