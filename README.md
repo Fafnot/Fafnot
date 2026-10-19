@@ -31,7 +31,7 @@
 -->
 
 <details>
-  <summary style="font-size: 30px">:zap: <b>GitHub stats</b></summary>
+  <summary style="font-size: 50px">:zap: <b>GitHub stats</b></summary>
   <p>
    <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fafnot&show_icons=true&theme=dark" width="800"/>
    <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafnot&layout=compact&theme=dark" width="800"/>  
