@@ -1,6 +1,11 @@
-![Header](https://github.com/Fafnot/Fafnot/blob/main/WindowsTerminal_xUFV7rxoP5.png)
+![Header](WindowsTerminal_xUFV7rxoP5.png)
+<p align="left">
+<img src="eye_loop.gif" width="1145">
+</p>
+
 
 ------------------------------------------------------------------------------------
+
 
 <br />
 
