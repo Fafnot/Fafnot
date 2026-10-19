@@ -1,4 +1,5 @@
 <img src="img/verloren_banner.png" width="1145">
+
 <p align="left">
 <img src="img/eye_loop.gif" width="1145">
 </p>
@@ -32,12 +33,13 @@
 <details>
   <summary>:zap: <b>GitHub stats</b></summary>
   <p>
-   <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fafnot&show_icons=true&theme=dark" />
-   <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafnot&layout=compact&theme=dark" />  
+   <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fafnot&show_icons=true&theme=dark" width="800"/>
+   <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafnot&layout=compact&theme=dark" width="800"/>  
    <br>
-   <img align="middle" alt="codewars" src="https://github.r2v.ch/codewars?user=nonnnsweety&stroke=%23BB432C">
+   <img align="middle" alt="codewars" src="https://github.r2v.ch/codewars?user=nonnnsweety&stroke=%23BB432C" width="800"/>
   </p>
 </details>
+
 
 
 
